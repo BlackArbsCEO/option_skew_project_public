@@ -1,5 +1,4 @@
 # option_skew_project_public
-___
 
 This repo contains the option skew project. 
 
