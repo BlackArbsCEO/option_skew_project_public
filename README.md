@@ -15,7 +15,7 @@ Currently the datasets used in the notebooks for this project are too large to f
 
 * [Raw Hourly Options Data from 2017-09-13 to 2017-10-18](https://drive.google.com/file/d/1ZZtVkDrLo7LysEQCrEyKpsmiGFivyuPl/view?usp=sharing)
 
-* [Processed Hourly Options Data from 2017-09-13 to 2017-10-18](https://drive.google.com/drive/folders/1LLibfoENFs4v81OE_u4BPLH1UR4OY65H?usp=sharing) **Make sure to click _download all_**
+* [Processed Hourly Options Data from 2017-09-13 to 2017-10-18](https://drive.google.com/drive/folders/1LLibfoENFs4v81OE_u4BPLH1UR4OY65H?usp=sharing)  **Note: Make sure to click _download all_**
 
 
 ### Who to contact? ###
