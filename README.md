@@ -20,7 +20,7 @@ Currently the datasets used in the notebooks for this project are too large to f
 
 ### Who to contact? ###
 
-* blackarbsceo
+* blackarbsceo | [blackarbs.com](www.blackarbs.com)
 * bcr@blackarbs.com
 
 ### Please report bugs or issues using the issue tracker
